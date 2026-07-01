@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0190/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華曼荼羅威儀形色法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1001.xml
+    old_id: T19n1001
+hash: sha256:3e7841b628f7075373eff8ac688cc1c770bd63c61095517f2a3421f42082d724

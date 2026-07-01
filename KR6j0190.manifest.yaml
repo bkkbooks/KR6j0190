@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0190/v1
+canonical_location: https://kanripo.org/bkk/KR6j0190/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 法華曼荼羅威儀形色法經
+  identifiers:
+    alt_id:
+    - T19n1001
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1001.xml
+    old_id: T19n1001
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0190_000.yaml, hash: 'sha256:3e7841b628f7075373eff8ac688cc1c770bd63c61095517f2a3421f42082d724'}
+  - {seq: 1, filename: KR6j0190_001.yaml, hash: 'sha256:af22f72b2b2c7a07c1f20f5b1a096c7fef42c0b6437d23709d2cdcb8b2cd7589'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0190_001.markers.yaml, hash: 'sha256:0300b0daf9578f13609de9856b2c4e516af07c3cf27e7d6a402105ffb5c4db68'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0190_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3563
+  label: 法華曼荼羅威儀形色法經
+  type: juan
+  level: 1
+hash: sha256:6975886c115ba6b558f9cb5454df7000ae42a17875a375fc2491330d94c14b00
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
