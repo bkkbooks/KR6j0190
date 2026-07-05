@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0190_000.yaml, hash: 'sha256:3e7841b628f7075373eff8ac688cc1c770bd63c61095517f2a3421f42082d724'}
-  - {seq: 1, filename: KR6j0190_001.yaml, hash: 'sha256:af22f72b2b2c7a07c1f20f5b1a096c7fef42c0b6437d23709d2cdcb8b2cd7589'}
+  - {seq: 1, filename: KR6j0190_001.yaml, hash: 'sha256:fb87b224f12f318d6226f51c390432e868536679d5fc3a84ab9a7a14079a7f69'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0190_001.markers.yaml, hash: 'sha256:0300b0daf9578f13609de9856b2c4e516af07c3cf27e7d6a402105ffb5c4db68'}
+  - {seq: 0, role: markers, filename: assets/KR6j0190_000.markers.yaml, hash: 'sha256:52f3fb6656069652d791e3368847dd2a73561818ac1ec343e0ffc1af5afb309b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0190_001.markers.yaml, hash: 'sha256:ec24c5094eae0a34bd862a91f3449d4f42e7684d99fc94a82d441fc10846e862'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 法華曼荼羅威儀形色法經
   type: juan
   level: 1
-hash: sha256:6975886c115ba6b558f9cb5454df7000ae42a17875a375fc2491330d94c14b00
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bdb4c987103828df27ca27587fa8a500a0b98d90ca5a23298bc576173738087b
